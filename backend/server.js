@@ -12,7 +12,7 @@ import './passport/github.auth.js'
 import userRoutes from "./routes/user.routes.js"
 import exploreRoutes from "./routes/explore.routes.js"
 import authRoutes from "./routes/auth.routes.js"
-import connectMongoDB from "./db/connectMongodb.js";
+import connectMongoDB from "./db/connectMongoDB.js";
 
 const app = express();
 const PORT = process.env.PORT || 5000 ;
