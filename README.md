@@ -41,4 +41,4 @@ The application includes robust error handling mechanisms to manage different ty
 
 - ## Deployment
 - 
-The project is deployed and can be accessed at CodeHub.
+The project is deployed and can be accessed at https://codehub-xb11.onrender.com.
