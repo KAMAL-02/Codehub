@@ -38,7 +38,3 @@ The application includes robust error handling mechanisms to manage different ty
 - **API Errors**: Issues with fetching data from the GitHub API.
 - **Validation Errors**: Invalid input data for signup and login.
 - **Database Errors**: Issues with MongoDB connectivity and operations.
-
-- ## Deployment
-- 
-The project is deployed and can be accessed at https://codehub-xb11.onrender.com.
